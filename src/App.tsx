@@ -8,12 +8,10 @@ import Alliances from './pages/Alliances';
 import Apply from './pages/Apply';
 
 function App() {
-    // Add debugging to see if the component is rendering
     console.log("App component rendering");
 
     return (
         <HashRouter>
-            {/* No basename for now */}
             <Routes>
                 <Route path="/" element={<MainLayout />}>
                     <Route index element={<Home />} />
