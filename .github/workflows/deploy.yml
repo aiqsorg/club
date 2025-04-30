@@ -37,7 +37,7 @@ jobs:
           
           export default defineConfig({
             plugins: [react()],
-            base: '/aiqs-investment-club/',
+            base: '/club/',
           });" > vite.config.js
 
       - name: Build React app
