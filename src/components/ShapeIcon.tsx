@@ -22,10 +22,7 @@ const ShapeIcon: React.FC<ShapeProps> = ({
                         {/* Added a fixed height container and positioned the triangle */}
                         <div className="relative" style={{ height: '80px', display: 'flex', alignItems: 'center' }}>
                             <div className="w-0 h-0 border-l-[30px] md:border-l-[40px] border-r-[30px] md:border-r-[40px] border-b-[52px] md:border-b-[69px] border-l-transparent border-r-transparent border-b-[#C8102E] transition-all duration-300 transform group-hover:scale-110" />
-                            {/* Triangle number (optional) */}
-                            <div className="absolute inset-0 flex items-center justify-center text-white text-xl md:text-2xl font-bold" style={{ top: '10px' }}>
-                                {number}
-                            </div>
+
                         </div>
                     </div>
                 );
