@@ -15,7 +15,7 @@ const Home: React.FC = () => {
           </h1>
           
           <p className="text-lg md:text-xl lg:text-2xl leading-relaxed mb-8">
-            The university's most sophisticated investment group, focused on using data and strategy to find advantages in capital markets and alternative assets
+            The university's most advanced investment group, focused on using data and strategy to find advantages in capital markets and alternative assets
           </p>
         </div>
       </div>

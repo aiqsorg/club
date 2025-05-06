@@ -15,11 +15,11 @@ const Alliances: React.FC = () => {
         <div className="max-w-4xl mx-auto mt-8 md:mt-12">
           <div className="prose prose-lg mx-auto text-center">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
-              Whether your organization brings proprietary technology, wants to contribute funding, or would like to engage in a mutually beneficial value creation we would love to hear back
+              Whether your organization brings proprietary technology or would like to engage in a mutually beneficial value creation we would love to hear more
             </p>
             
             <p className="text-lg mb-8">
-              AIQS values our institutional allies who help make what we do possible
+              AIQS values our institutional allies who help us carry out our vision
             </p>
           </div>
           
