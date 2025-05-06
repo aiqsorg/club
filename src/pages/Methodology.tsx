@@ -12,7 +12,7 @@ const Methodology: React.FC = () => {
     {
       number: 2,
       title: "Vetting",
-      description: "Teams present their thesis to partners and senior officials to assess the viability of the venture, revisions may be proposed or strategies adjusted"
+      description: "Teams present their thesis to partners and senior officials to assess the viability of the venture; revisions may be proposed or strategies adjusted"
     },
     {
       number: 3,
@@ -22,7 +22,7 @@ const Methodology: React.FC = () => {
     {
       number: 4,
       title: "Maturity",
-      description: "Investments are monitored continuously with performance assessments and maintenance or project deferral"
+      description: "Projects are monitored continuously with performance assessments and maintenance or project deferral"
     }
   ];
   
@@ -34,7 +34,7 @@ const Methodology: React.FC = () => {
         <div className="max-w-4xl mx-auto mt-8 md:mt-12">
           <div className="text-center mb-10">
             <p className="text-lg md:text-xl leading-relaxed mb-6">
-              Our firm manages our signature fund through a project based approach in creating cash flows
+              Our firm manages our signature fund through taking on various projects to create cash flows
             </p>
           </div>
           
