@@ -30,7 +30,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <NavLink to="/" className="flex items-center">
           <Logo className="h-12 w-12" />
-          <span className="ml-4 font-semibold tracking-wider text-black">AIQS</span>
+          <span className="ml-4 font-semibold tracking-wider text-black">Alternative Investments & Quantitative Solutions | AIQS</span>
         </NavLink>
         
         {/* Desktop Navigation */}
