@@ -34,7 +34,7 @@ const Methodology: React.FC = () => {
         <div className="max-w-4xl mx-auto mt-8 md:mt-12">
           <div className="text-center mb-10">
             <p className="text-lg md:text-xl leading-relaxed mb-6">
-              Our fund is managed through the undertaking various projects to create cash flows in a 4 step process
+              Our fund is managed through taking on various projects to create cash flows in a 4-step process
             </p>
           </div>
           

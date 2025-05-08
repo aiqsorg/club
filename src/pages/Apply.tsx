@@ -3,7 +3,7 @@ import PageHeader from '../components/PageHeader';
 import Button from '../components/Button';
 
 const Apply: React.FC = () => {
-  const applicationFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLSejcUR7qwfgT08BLPKXSHETsu08NVHEZabcg9apGk_FEI6umQ/viewform?usp=dialog";
+  const applicationFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLSegABNdvwptgHcwhYk2gKxYHRuU3dENODjfhEuTapJpTGCvEg/viewform?usp=dialog";
   
   return (
     <div className="min-h-screen">
