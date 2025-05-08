@@ -21,7 +21,7 @@ const Apply: React.FC = () => {
             </p>
             
             <p className="text-lg leading-relaxed mb-8">
-              After working within your position, if you that it isn't a good fit, lateral movement is an option or responsibilities may also be shifted to reflect current needs
+             Subsequent details will be provided to applicants
             </p>
           </div>
           
