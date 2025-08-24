@@ -16,7 +16,7 @@ const Logo: React.FC<LogoProps> = ({ className = '' }) => {
 
     // Use PNG directly on Windows, SVG elsewhere
     const logoSrc = isWindows
-        ? `${basePath}web-app-manifest-192x192.png`
+        ? `${basePath}web-app-manifest-512x512.png`
         : `${basePath}favicon.svg`;
 
     return (
