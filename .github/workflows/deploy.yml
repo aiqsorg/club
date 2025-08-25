@@ -3,7 +3,7 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches: [ main ]  # Change to your default branch if not 'main'
-  workflow_dispatch:    # Allows manual triggering
+  workflow_dispatch:    # Allows manual triggering (test contribution)
 
 permissions:
   contents: read
