@@ -4,7 +4,7 @@ import Button from '../components/Button';
 
 const Alliances: React.FC = () => {
   const handleContactClick = () => {
-    window.location.href = 'mailto:northeasternaiqs@gmail.com';
+    window.location.href = 'mailto:aiqsorg@gmail.com';
   };
   
   return (
