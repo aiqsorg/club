@@ -24,10 +24,10 @@ const About: React.FC = () => {
               
               <div className="bg-gradient-to-r from-red-600 to-red-700 text-white p-8 rounded-lg shadow-xl">
                 <p className="text-lg leading-relaxed mb-6">
-                  We manage our Symphony Paper Fund and our Husky Fund (Tenative)
+                  Management of Symphony Paper Fund and our Husky Fund (Tenative)
                 </p>
                 <p className="text-lg leading-relaxed">
-                  We participate in various intercollegiate hedge fund and quantitative finance competitions 
+                  Participation of various intercollegiate hedge fund and quantitative finance competitions 
                 </p>
               </div>
             </div>
