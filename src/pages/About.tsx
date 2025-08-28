@@ -19,10 +19,10 @@ const About: React.FC = () => {
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
                   Core Operations
                 </h2>
-                <div className="w-20 h-1 bg-blue-500 mx-auto"></div>
+                <div className="w-20 h-1 bg-red-500 mx-auto"></div>
               </div>
               
-              <div className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white p-8 rounded-lg shadow-xl">
+              <div className="bg-gradient-to-r from-red-600 to-red-700 text-white p-8 rounded-lg shadow-xl">
                 <p className="text-lg leading-relaxed mb-6">
                   [Your core operations content here]
                 </p>
@@ -33,18 +33,27 @@ const About: React.FC = () => {
             </div>
 
             {/* MEMBER INFORMATION SECTION */}
-            <div className="my-12 bg-gray-50 p-6 md:p-8 rounded-sm">
-              <p className="text-lg leading-relaxed mb-6">
-                Our members encompass a variety of majors in many technical disciplines such as mathematics, engineering, and computer science but are united by a passion for problem solving
-              </p>
+            <div className="my-16">
+              <div className="text-center mb-8">
+                <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
+                  Our Team
+                </h2>
+                <div className="w-20 h-1 bg-red-500 mx-auto"></div>
+              </div>
               
-              <p className="text-lg leading-relaxed mb-6">
-                We welcome top talent from all fields of study and backgrounds, our members speak 8 different languages, and can program in many more
-              </p>
-              
-              <p className="text-lg leading-relaxed">
-                Members gain a variety of experience in managing our fund in a multitude of ways, including finding viable market opportunities, creating trading algorithms, or navigating the complex laws and regulations surrounding a particular asset class
-              </p>
+              <div className="bg-gray-50 p-6 md:p-8 rounded-sm">
+                <p className="text-lg leading-relaxed mb-6">
+                  Our members encompass a variety of majors in many technical disciplines such as mathematics, engineering, and computer science but are united by a passion for problem solving
+                </p>
+                
+                <p className="text-lg leading-relaxed mb-6">
+                  We welcome top talent from all fields of study and backgrounds, our members speak 8 different languages, and can program in many more
+                </p>
+                
+                <p className="text-lg leading-relaxed">
+                  Members gain a variety of experience in managing our fund in a multitude of ways, including finding viable market opportunities, creating trading algorithms, or navigating the complex laws and regulations surrounding a particular asset class
+                </p>
+              </div>
             </div>
 
           </div>
@@ -55,11 +64,6 @@ const About: React.FC = () => {
 };
 
 export default About;
-
-
-
-
-
 
 
 
