@@ -24,7 +24,7 @@ const About: React.FC = () => {
               
               <div className="bg-gradient-to-r from-red-600 to-red-700 text-white p-8 rounded-lg shadow-xl">
                 <p className="text-lg leading-relaxed mb-6">
-                  Symphony Paper Fund and our Husky Fund (Tenative) management
+                  Symphony Paper Fund and Capital Husky Fund (Tenative) management
                 </p>
                 <p className="text-lg leading-relaxed">
                   Intercollegiate hedge fund and quantitative finance competition participation
