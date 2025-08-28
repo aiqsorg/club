@@ -27,7 +27,7 @@ const About: React.FC = () => {
                   Management of Symphony Paper Fund and our Husky Fund (Tenative)
                 </p>
                 <p className="text-lg leading-relaxed">
-                  Participation of various intercollegiate hedge fund and quantitative finance competitions 
+                  Participation in intercollegiate hedge fund and quantitative finance competitions 
                 </p>
               </div>
             </div>
