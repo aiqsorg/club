@@ -17,17 +17,17 @@ const About: React.FC = () => {
             <div className="my-16">
               <div className="text-center mb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
-                  Core Operations
+                  CORE OPERATIONS
                 </h2>
                 <div className="w-20 h-1 bg-red-500 mx-auto"></div>
               </div>
               
               <div className="bg-gradient-to-r from-red-600 to-red-700 text-white p-8 rounded-lg shadow-xl">
                 <p className="text-lg leading-relaxed mb-6">
-                  [Your core operations content here]
+                  We manage our Symphony Paper Fund 
                 </p>
                 <p className="text-lg leading-relaxed">
-                  [More core operations content here]
+                  TEST
                 </p>
               </div>
             </div>
@@ -36,7 +36,7 @@ const About: React.FC = () => {
             <div className="my-16">
               <div className="text-center mb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
-                  Our Team
+                  OUR TEAM
                 </h2>
                 <div className="w-20 h-1 bg-red-500 mx-auto"></div>
               </div>
