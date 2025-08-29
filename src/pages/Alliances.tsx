@@ -45,7 +45,7 @@ const Alliances: React.FC = () => {
                 label="VIEW ALL LINKS" 
                 variant="secondary" 
                 size="lg" 
-                onClick={() => window.open('https://linktr.ee/yourlinktree', '_blank')}
+                onClick={() => window.open('https://linktr.ee/aiqsorg', '_blank')}
               />
               <p className="text-sm mt-2 text-gray-600">
                 Social media, resources, and more
