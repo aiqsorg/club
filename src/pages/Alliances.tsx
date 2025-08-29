@@ -23,33 +23,39 @@ const Alliances: React.FC = () => {
             </p>
           </div>
           
+          <div className="prose prose-lg mx-auto text-center">
+            <p className="text-lg mb-8">
+              Social media, resources, and more
+            </p>
+          </div>
+          
           <div className="mt-12 flex flex-col items-center space-y-6">
-            <div className="flex flex-col items-center">
-              <Button 
-                label="CONTACT US" 
-                variant="primary" 
-                size="lg" 
-                onClick={handleContactClick}
-              />
-              
-              <p className="text-sm mt-2 text-gray-600">
-                If the above link is not functioning please email directly to aiqsorg@gmail.com
+            <Button 
+              label="CONTACT US" 
+              variant="primary" 
+              size="lg" 
+              onClick={handleContactClick}
+            />
+            
+            <p className="text-sm mt-2 text-gray-600">
+              If the above link is not functioning please email directly to aiqsorg@gmail.com
+            </p>
+          </div>
+          
+          <div className="max-w-4xl mx-auto mt-8 md:mt-12">
+            <div className="prose prose-lg mx-auto text-center">
+              <p className="text-lg mb-8">
+                Social media, resources, and more
               </p>
             </div>
-
-            <div className="flex flex-col items-center">
-              <p className="text-lg mb-3 font-medium">
-                Connect with us on all platforms
-              </p>
+            
+            <div className="mt-12 flex justify-center">
               <Button 
-                label="VIEW ALL LINKS" 
-                variant="secondary" 
+                label="LINKTREE" 
+                variant="primary" 
                 size="lg" 
                 onClick={() => window.open('https://linktr.ee/aiqsorg', '_blank')}
               />
-              <p className="text-sm mt-2 text-gray-600">
-                Social media, resources, and more
-              </p>
             </div>
           </div>
         </div>
