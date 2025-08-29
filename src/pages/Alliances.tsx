@@ -15,7 +15,7 @@ const Alliances: React.FC = () => {
         <div className="max-w-4xl mx-auto mt-8 md:mt-12">
           <div className="prose prose-lg mx-auto text-center">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
-              Whether your organization brings proprietary technology or would like to engage in a mutually beneficial value creation we would love to hear more
+              Whether your organization brings proprietary technology or would like to engage in a mutually beneficial value creation please reach out
             </p>
             
             <p className="text-lg mb-8">
@@ -29,6 +29,15 @@ const Alliances: React.FC = () => {
               variant="primary" 
               size="lg" 
               onClick={handleContactClick}
+
+               <p className="text-lg mb-8">
+              If the below link is not functioning please email directly to aiqsorg@gmail.com
+            </p>
+
+
+
+
+              
             />
           </div>
         </div>
