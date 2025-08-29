@@ -23,22 +23,17 @@ const Alliances: React.FC = () => {
             </p>
           </div>
           
-          <div className="mt-12 flex justify-center">
+          <div className="mt-12 flex flex-col items-center">
             <Button 
               label="CONTACT US" 
               variant="primary" 
               size="lg" 
               onClick={handleContactClick}
-
-               <p className="text-lg mb-8">
-              If the below link is not functioning please email directly to aiqsorg@gmail.com
-            </p>
-
-
-
-
-              
             />
+            
+            <p className="text-sm mt-4 text-gray-600">
+              If the above link is not functioning please email directly to aiqsorg@gmail.com
+            </p>
           </div>
         </div>
       </div>
