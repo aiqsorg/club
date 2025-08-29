@@ -23,11 +23,6 @@ const Alliances: React.FC = () => {
             </p>
           </div>
           
-          <div className="prose prose-lg mx-auto text-center">
-            <p className="text-lg mb-8">
-              Social media, resources, and more
-            </p>
-          </div>
           
           <div className="mt-12 flex flex-col items-center space-y-6">
             <Button 
