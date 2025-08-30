@@ -10,7 +10,7 @@ const About: React.FC = () => {
         <div className="max-w-4xl mx-auto">
           <div className="prose prose-lg mx-auto">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
-              We are a group of inventive and astute problem solvers that apply statistics to capture an overlooked edge in markets
+              We are a group of inventive and astute problem solvers that apply statistics and various other means to capture overlooked edges in markets; formed in 2025, our group is currently pursuing recongition as an offical student organization
             </p>
             
             {/* CORE OPERATIONS SECTION */}
