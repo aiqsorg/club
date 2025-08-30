@@ -2,7 +2,7 @@ import React from 'react';
 import PageHeader from '../components/PageHeader';
 import Button from '../components/Button';
 
-const Alliances: React.FC = () => {
+const Partnerships: React.FC = () => {
   const handleContactClick = () => {
     window.location.href = 'mailto:aiqsorg@gmail.com';
   };
@@ -59,4 +59,4 @@ const Alliances: React.FC = () => {
   );
 };
 
-export default Alliances;
+export default Partnerships;
