@@ -4,7 +4,7 @@ import MainLayout from './layouts/MainLayout';
 import Home from './pages/Home';
 import About from './pages/About';
 import Methodology from './pages/Methodology';
-import Alliances from './pages/Alliances';
+import Partnerships from './pages/Partnerships';
 import Apply from './pages/Apply';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
                     <Route index element={<Home />} />
                     <Route path="about" element={<About />} />
                     <Route path="methodology" element={<Methodology />} />
-                    <Route path="alliances" element={<Alliances />} />
+                    <Route path="alliances" element={<Partnerships />} />
                     <Route path="apply" element={<Apply />} />
                 </Route>
             </Routes>
