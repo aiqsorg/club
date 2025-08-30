@@ -23,7 +23,6 @@ const Partnerships: React.FC = () => {
             </p>
           </div>
           
-          
           <div className="mt-12 flex flex-col items-center space-y-6">
             <Button 
               label="CONTACT US" 
@@ -35,10 +34,6 @@ const Partnerships: React.FC = () => {
             <p className="text-sm mt-2 text-gray-600">
               If the above link is not functioning please email directly to aiqsorg@gmail.com
             </p>
-          </div>
-        
-         
-          
           </div>
         </div>
       </div>
