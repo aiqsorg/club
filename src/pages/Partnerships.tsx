@@ -10,7 +10,7 @@ const Partnerships: React.FC = () => {
   return (
     <div className="min-h-screen">
       <div className="container mx-auto px-4 py-10">
-        <PageHeader title="ALLIANCES" />
+        <PageHeader title="PARTNERSHIPS" />
         
         <div className="max-w-4xl mx-auto mt-8 md:mt-12">
           <div className="prose prose-lg mx-auto text-center">
@@ -36,22 +36,9 @@ const Partnerships: React.FC = () => {
               If the above link is not functioning please email directly to aiqsorg@gmail.com
             </p>
           </div>
+        
+         
           
-          <div className="max-w-4xl mx-auto mt-8 md:mt-12">
-            <div className="prose prose-lg mx-auto text-center">
-              <p className="text-lg mb-8">
-                Social media, resources, and more
-              </p>
-            </div>
-            
-            <div className="mt-12 flex justify-center">
-              <Button 
-                label="LINKTREE" 
-                variant="primary" 
-                size="lg" 
-                onClick={() => window.open('https://linktr.ee/aiqsorg', '_blank')}
-              />
-            </div>
           </div>
         </div>
       </div>
