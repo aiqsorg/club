@@ -7,22 +7,22 @@ const Methodology: React.FC = () => {
     {
       number: 1,
       title: "Sourcing",
-      description: "An investment opportunity is assigned or identified by members and an investment thesis is established, with a project-specific team formed to enact"
+      description: "An investment opportunity is identified by members and an investment thesis is established, with a project-specific team formed to enact"
     },
     {
       number: 2,
       title: "Vetting",
-      description: "Teams present their value proposition to partners and senior officials to assess the viability of the venture; revisions may be proposed or strategies adjusted"
+      description: "Teams present their value proposition to senior officials to assess the viability of the venture; revisions may be proposed or strategies adjusted"
     },
     {
       number: 3,
       title: "Execution",
-      description: "Projects receive funds and investment strategies are deployed; equity or research project designation is assigned"
+      description: "Investment projects are allocated resources, constructed, and strategies are executed"
     },
     {
       number: 4,
       title: "Maturity",
-      description: "Projects are monitored continuously with routine performance assessments and maintenance or may undergo deferral either from meeting exit criteria or a decrease of market viability"
+      description: "Investment Projects are monitored continuously with routine assessments and may undergo deferral either from meeting exit criteria or a decrease of market viability"
     }
   ];
   
@@ -34,7 +34,7 @@ const Methodology: React.FC = () => {
         <div className="max-w-4xl mx-auto mt-8 md:mt-12">
           <div className="text-center mb-10">
             <p className="text-lg md:text-xl leading-relaxed mb-6">
-              Our fund is managed through taking on various projects to create cash flows in a 4-step process
+              Our funds are managed through taking on various sub-projects to create cash flows in a 4-step process
             </p>
           </div>
           
