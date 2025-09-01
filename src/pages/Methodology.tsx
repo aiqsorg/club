@@ -22,7 +22,7 @@ const Methodology: React.FC = () => {
     {
       number: 4,
       title: "Maturity",
-      description: "Investment Projects are monitored continuously with routine assessments and may undergo deferral either from meeting exit criteria or a decrease of market viability"
+      description: "Investment projects are monitored continuously and maintained or terminated either from meeting exit criteria or a decrease of market viability"
     }
   ];
   
