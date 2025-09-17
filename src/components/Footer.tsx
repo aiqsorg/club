@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
             <Logo className="h-10 w-10 text-white" />
             <div className="ml-4">
               <h3 className="text-lg font-semibold">AIQS</h3>
-              <p className="text-sm text-gray-400">Automated Investments & Quantitative Solutions</p>
+              <p className="text-sm text-gray-400">Algorithmic Investments & Quantitative Solutions</p>
             </div>
           </div>
           
