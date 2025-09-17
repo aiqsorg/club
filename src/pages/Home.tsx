@@ -11,7 +11,7 @@ const Home: React.FC = () => {
           </div>
           
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6">
-            <span className="text-[#C8102E]">A</span>utomated <span className="text-[#C8102E]">I</span>nvestments & <span className="text-[#C8102E]">Q</span>uantitative <span className="text-[#C8102E]">S</span>olutions
+            <span className="text-[#C8102E]">A</span>lgorithmic <span className="text-[#C8102E]">I</span>nvestments & <span className="text-[#C8102E]">Q</span>uantitative <span className="text-[#C8102E]">S</span>olutions
           </h1>
           
           <p className="text-lg md:text-xl lg:text-2xl leading-relaxed mb-8">
