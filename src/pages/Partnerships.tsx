@@ -15,7 +15,7 @@ const Partnerships: React.FC = () => {
         <div className="max-w-4xl mx-auto mt-8 md:mt-12">
           <div className="prose prose-lg mx-auto text-center">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
-              Whether your organization brings proprietary technology or would like to engage in a mutually beneficial value creation please reach out
+               We welcome partnerships with organizations that bring proprietary technology as well as those seeking mutually beneficial collaboration opportunities
             </p>
             
             <p className="text-lg mb-8">
