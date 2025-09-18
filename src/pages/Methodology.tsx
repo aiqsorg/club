@@ -7,7 +7,7 @@ const Methodology: React.FC = () => {
     {
       number: 1,
       title: "Sourcing",
-      description: "An investment opportunity is identified by members and an investment thesis is established, with a project-specific team formed to enact"
+      description: "An investment or trade opportunity is identified by members and an investment thesis is established, with a project-specific team formed to enact"
     },
     {
       number: 2,
@@ -17,12 +17,12 @@ const Methodology: React.FC = () => {
     {
       number: 3,
       title: "Execution",
-      description: "Investment projects are allocated resources, constructed, and strategies are executed"
+      description: "Projects are allocated resources, constructed, and strategies are executed"
     },
     {
       number: 4,
       title: "Maturity",
-      description: "Investment projects are monitored continuously and maintained or terminated either from meeting exit criteria or a decrease of market viability"
+      description: "Projects are monitored continuously and maintained or terminated either from meeting exit criteria or a decrease of market viability"
     }
   ];
   
