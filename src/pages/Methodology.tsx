@@ -7,22 +7,22 @@ const Methodology: React.FC = () => {
     {
       number: 1,
       title: "Conceptual",
-      description: "Alpha Signals; arbitrage or opportunities for probabilistic advantages"
+      description: "Alpha Signals: arbitrage or opportunities for probabilistic advantages"
     },
     {
       number: 2,
       title: "Architectural",
-      description: "Modeling; parameters that can best capture an opportunity without overfitting, rough implementations and tests"
+      description: "Modeling: parameters that can best capture an opportunity without overfitting, rough implementations and tests"
     },
     {
       number: 3,
       title: "Technical",
-      description: "Implementation; hardware or cloud support to enable deployment capabilities, DevOps, proper code implementation with appropriate bounds on latency"
+      description: "Implementation: hardware or cloud support to enable deployment capabilities, DevOps, proper code implementation with appropriate bounds on latency"
     },
     {
       number: 4,
       title: "Operational",
-      description: "Moderating; assessing performance of projects and maintaining or terminating"
+      description: "Moderating: assessing performance of projects and maintaining or terminating"
     }
   ];
   
