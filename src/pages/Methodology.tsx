@@ -21,7 +21,7 @@ const Methodology: React.FC = () => {
     },
     {
       number: 4,
-      title: "Maturity",
+      title: "Operational",
       description: "Moderating; assessing performance of projects and maintaining or terminating"
     }
   ];
