@@ -13,7 +13,7 @@ const Apply: React.FC = () => {
         <div className="max-w-4xl mx-auto mt-8 md:mt-12">
           <div className="text-center mb-10">
             <div className="inline-block bg-[#C8102E] text-white px-4 py-2 mb-6">
-              <h2 className="text-xl font-bold">Fall 2025 Applications: Open</h2>
+              <h2 className="text-xl font-bold">Spring 2026 Applications: Open</h2>
             </div>
             
             <p className="text-lg md:text-xl leading-relaxed mb-6">
