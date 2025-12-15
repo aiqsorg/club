@@ -105,9 +105,7 @@ const About: React.FC = () => {
                 Our members encompass a variety of majors in many technical disciplines such as mathematics, engineering, and computer science but are united by a passion for problem solving
               </p>
               
-              <p className="text-lg leading-relaxed mb-6">
-                We welcome top talent from all fields of study and backgrounds, our members speak 8 different languages, and can program in many more
-              </p>
+        
               
               <p className="text-lg leading-relaxed">
                 Members gain a variety of experience in managing our fund in a multitude of ways, including finding viable market opportunities, creating trading algorithms, or navigating the complex laws and regulations surrounding a particular asset class
