@@ -10,7 +10,7 @@ const About: React.FC = () => {
         <div className="max-w-4xl mx-auto">
           <div className="prose prose-lg mx-auto">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
-              We are a group of inventive and astute problem solvers that apply statistics and various other means to capture overlooked edges in markets; formed in 2025, our group is entering the preliminary recognition phase as an official student organization at Northeastern University, with full-fledged status anticipated by Fall 2026
+              We are a group of inventive and astute problem solvers that apply statistics and various other means to capture overlooked edges in markets; formed in 2025, our organization entered the preliminary recognition phase as an official student organization at Northeastern University, with full-fledged status anticipated by Fall 2026
             </p>
             
             {/* CORE OPERATIONS SECTION */}
@@ -43,11 +43,7 @@ const About: React.FC = () => {
               
               <div className="bg-gray-50 p-6 md:p-8 rounded-sm">
                 <p className="text-lg leading-relaxed mb-6">
-                  Our members encompass a variety of majors in many technical disciplines such as mathematics, engineering, and computer science but are united by a passion for problem solving
-                </p>
-                
-                <p className="text-lg leading-relaxed mb-6">
-                  We welcome top talent from all fields of study and backgrounds, our members speak 8 different languages, and can program in many more
+                  Our operations team encompasses a variety of majors in many technical disciplines such as mathematics, engineering, and computer science but are united by a passion for problem solving
                 </p>
                 
                 <p className="text-lg leading-relaxed">
