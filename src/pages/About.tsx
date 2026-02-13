@@ -10,7 +10,8 @@ const About: React.FC = () => {
         <div className="max-w-4xl mx-auto">
           <div className="prose prose-lg mx-auto">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
-              We are a group of inventive and astute problem solvers that apply statistics and various other means to capture overlooked edges in markets; formed in 2025, our organization entered the preliminary recognition phase as an official student organization at Northeastern University, with full-fledged status anticipated by Fall 2026
+              We are a group of inventive and astute problem solvers that apply various other to capture overlooked edges in markets
+              Our workflow is flexible and consists of regular meetings where we continuously work on our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes.
             </p>
             
             {/* CORE OPERATIONS SECTION */}
@@ -47,7 +48,7 @@ const About: React.FC = () => {
                 </p>
                 
                 <p className="text-lg leading-relaxed">
-                  Our workflow is flexible and consists of regular meetings where we continuously work on our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes
+                   Formed in 2025, our organization entered the preliminary recognition phase as an official student organization at Northeastern University, with full-fledged status anticipated by Fall 2026
                 </p>
               </div>
             </div>
