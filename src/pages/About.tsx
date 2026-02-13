@@ -11,7 +11,7 @@ const About: React.FC = () => {
           <div className="prose prose-lg mx-auto">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
               We are a group of inventive and astute problem solvers that apply various means to capture overlooked edges in markets.
-              Our workflow is flexible and consists of regular meetings where we continuously work on our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes.
+              Our workflow is flexible and consists of regular meetings where we continuously work on our projects. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas while outlining their thought processes
             </p>
             
             {/* BACKGROUND SECTION - NOW RED */}
@@ -107,7 +107,7 @@ export default About;
 //           <div className="prose prose-lg mx-auto">
 //             <p className="text-lg md:text-xl mb-8 leading-relaxed">
 //               We are a group of inventive and astute problem solvers that apply various means to capture overlooked edges in markets.
-//               Our workflow is flexible and consists of regular meetings where we continuously work on our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes.
+//               Our workflow is flexible and consists of regular meetings where we continuously work on our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas while outlining their thought processes
 //             </p>
             
 //             {/* CORE OPERATIONS SECTION */}
