@@ -24,7 +24,7 @@ const About: React.FC = () => {
               
               <div className="bg-gradient-to-r from-red-600 to-red-700 text-white p-8 rounded-lg shadow-xl">
                 <p className="text-lg leading-relaxed mb-6">
-                  Symphony Paper Fund and Husky Capital Fund (Tentative) management
+                  Simulated fund management & actual fund managment (contingent)vwith faculty oversight
                 </p>
                 <p className="text-lg leading-relaxed">
                   Intercollegiate Quantitative Finance Competitions Participation 
@@ -43,11 +43,11 @@ const About: React.FC = () => {
               
               <div className="bg-gray-50 p-6 md:p-8 rounded-sm">
                 <p className="text-lg leading-relaxed mb-6">
-                  Our operations team encompasses a variety of majors in many technical disciplines such as mathematics, engineering, and computer science but are united by a passion for problem solving
+                  Our team encompasses a variety of majors in many technical disciplines such as mathematics, engineering, and data science but are united by a passion for problem solving
                 </p>
                 
                 <p className="text-lg leading-relaxed">
-                  Members gain a variety of experience in managing our fund in a multitude of ways, including finding viable market opportunities, creating trading algorithms, or navigating the complex laws and regulations surrounding a particular asset class
+                  Our workflow is flexible and consists of regular meetings where we continuously iterate upon our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes
                 </p>
               </div>
             </div>
