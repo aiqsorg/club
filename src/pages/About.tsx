@@ -47,7 +47,7 @@ const About: React.FC = () => {
                 </p>
                 
                 <p className="text-lg leading-relaxed">
-                  Our workflow is flexible and consists of regular meetings where we continuously iterate upon our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes
+                  Our workflow is flexible and consists of regular meetings where we continuously work on our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes
                 </p>
               </div>
             </div>
