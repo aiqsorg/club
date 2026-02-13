@@ -11,13 +11,13 @@ const About: React.FC = () => {
           <div className="prose prose-lg mx-auto">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
               We are a group of inventive and astute problem solvers that apply various means to capture overlooked edges in markets.
-              Our workflow is flexible and consists of regular meetings where we continuously work on our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes
+              Our workflow is flexible and consists of regular meetings where we continuously work on our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes.
             </p>
             
-            {/* BACKGROUND SECTION */}
-            <div className="my-12 bg-gradient-to-br from-gray-800 to-gray-900 text-white p-8 rounded-lg shadow-lg">
+            {/* BACKGROUND SECTION - NOW RED */}
+            <div className="my-12 bg-gradient-to-r from-red-600 to-red-700 text-white p-8 rounded-lg shadow-xl">
               <div className="mb-6">
-                <h3 className="text-xl font-semibold mb-3 text-gray-100">Ideally, you would be studying:</h3>
+                <h3 className="text-xl font-semibold mb-3">Ideally, you would be studying:</h3>
                 <ul className="list-disc list-inside space-y-2 ml-2">
                   <li className="text-lg">Applied Mathematics</li>
                   <li className="text-lg">Data Science</li>
@@ -25,7 +25,7 @@ const About: React.FC = () => {
               </div>
               
               <div className="mb-6">
-                <h3 className="text-xl font-semibold mb-3 text-gray-100">This can also work:</h3>
+                <h3 className="text-xl font-semibold mb-3">This can also work:</h3>
                 <ul className="list-disc list-inside space-y-2 ml-2">
                   <li className="text-lg">Physics</li>
                   <li className="text-lg">Computer Science</li>
@@ -34,8 +34,8 @@ const About: React.FC = () => {
                 </ul>
               </div>
               
-              <div className="border-t border-gray-600 pt-6">
-                <h3 className="text-xl font-semibold mb-3 text-gray-100">Keep in mind:</h3>
+              <div className="border-t border-red-500 pt-6">
+                <h3 className="text-xl font-semibold mb-3">Keep in mind:</h3>
                 <ul className="list-disc list-inside space-y-2 ml-2">
                   <li className="text-lg">Your skills matter more than your major</li>
                   <li className="text-lg">Most of what we do isn't covered in traditional coursework</li>
@@ -44,7 +44,7 @@ const About: React.FC = () => {
               </div>
             </div>
             
-            {/* CORE OPERATIONS SECTION */}
+            {/* CORE OPERATIONS SECTION - NOW BLACK/GREY */}
             <div className="my-16">
               <div className="text-center mb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
@@ -53,12 +53,12 @@ const About: React.FC = () => {
                 <div className="w-20 h-1 bg-red-500 mx-auto"></div>
               </div>
               
-              <div className="bg-gradient-to-r from-red-600 to-red-700 text-white p-8 rounded-lg shadow-xl">
+              <div className="bg-gradient-to-r from-gray-800 to-gray-900 text-white p-8 rounded-lg shadow-xl">
                 <p className="text-lg leading-relaxed mb-6">
-                  Simulated fund management & actual fund managment (contingent) with faculty oversight
+                  Simulated Fund Management & Actual Fund Managment (Contingent) with Faculty Oversight
                 </p>
                 <p className="text-lg leading-relaxed">
-                  Intercollegiate Quantitative Finance Competitions Participation 
+                  Intercollegiate Competitions Participation for Quantitative Finance and Hedge Fund Strategy
                 </p>
               </div>
             </div>
@@ -90,8 +90,6 @@ const About: React.FC = () => {
 };
 
 export default About;
-
-
 
 
 
