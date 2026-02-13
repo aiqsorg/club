@@ -10,7 +10,7 @@ const About: React.FC = () => {
         <div className="max-w-4xl mx-auto">
           <div className="prose prose-lg mx-auto">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
-              We are a group of inventive and astute problem solvers that apply various means to capture overlooked edges in markets.
+              We are a group of inventive and astute problem solvers that apply various means to capture overlooked edges in markets, attempting to use strategies typically explored in buy-side hedge funds.
               Our workflow is flexible and consists of regular meetings where we continuously work on our projects. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas while outlining their thought processes
             </p>
             
