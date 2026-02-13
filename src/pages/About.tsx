@@ -10,7 +10,7 @@ const About: React.FC = () => {
         <div className="max-w-4xl mx-auto">
           <div className="prose prose-lg mx-auto">
             <p className="text-lg md:text-xl mb-8 leading-relaxed">
-              We are a group of inventive and astute problem solvers that apply various other to capture overlooked edges in markets
+              We are a group of inventive and astute problem solvers that apply various means to capture overlooked edges in markets.
               Our workflow is flexible and consists of regular meetings where we continuously work on our projects. As your schedule allows you can drop in and out. We find that the people that get the most out of this are highly curious, self-driven, and quick to iterate on their ideas to validate or disprove them while outlining their thought processes.
             </p>
             
@@ -25,7 +25,7 @@ const About: React.FC = () => {
               
               <div className="bg-gradient-to-r from-red-600 to-red-700 text-white p-8 rounded-lg shadow-xl">
                 <p className="text-lg leading-relaxed mb-6">
-                  Simulated fund management & actual fund managment (contingent)vwith faculty oversight
+                  Simulated fund management & actual fund managment (contingent) with faculty oversight
                 </p>
                 <p className="text-lg leading-relaxed">
                   Intercollegiate Quantitative Finance Competitions Participation 
@@ -61,6 +61,19 @@ const About: React.FC = () => {
 };
 
 export default About;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
