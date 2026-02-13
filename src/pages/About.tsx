@@ -17,7 +17,7 @@ const About: React.FC = () => {
             {/* BACKGROUND SECTION - NOW RED */}
             <div className="my-12 bg-gradient-to-r from-red-600 to-red-700 text-white p-8 rounded-lg shadow-xl">
               <div className="mb-6">
-                <h3 className="text-xl font-semibold mb-3">Ideally, you would be studying:</h3>
+                <h3 className="text-xl font-bold mb-3">Ideally, you would be studying:</h3>
                 <ul className="list-disc list-inside space-y-2 ml-2">
                   <li className="text-lg">Applied Mathematics</li>
                   <li className="text-lg">Data Science</li>
@@ -25,7 +25,7 @@ const About: React.FC = () => {
               </div>
               
               <div className="mb-6">
-                <h3 className="text-xl font-semibold mb-3">This can also work:</h3>
+                <h3 className="text-xl font-bold mb-3">This can also work:</h3>
                 <ul className="list-disc list-inside space-y-2 ml-2">
                   <li className="text-lg">Physics</li>
                   <li className="text-lg">Computer Science</li>
@@ -35,11 +35,11 @@ const About: React.FC = () => {
               </div>
               
               <div className="border-t border-red-500 pt-6">
-                <h3 className="text-xl font-semibold mb-3">Keep in mind:</h3>
+                <h3 className="text-xl font-bold mb-3">Keep in mind:</h3>
                 <ul className="list-disc list-inside space-y-2 ml-2">
                   <li className="text-lg">Your skills matter more than your major</li>
                   <li className="text-lg">Most of what we do isn't covered in traditional coursework</li>
-                  <li className="text-lg">We learn and adapt together as we go</li>
+                  <li className="text-lg">We learn and adapt as we go</li>
                 </ul>
               </div>
             </div>
